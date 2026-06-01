@@ -12,3 +12,5 @@ CMakeCache.txt
 
 # System
 .DS_Store
+
+openbsw_backup/
