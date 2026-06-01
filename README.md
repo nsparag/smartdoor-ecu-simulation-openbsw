@@ -1,5 +1,9 @@
-
 # 🚗 Smart Door ECU Simulation on OpenBSW
+
+![Language](https://img.shields.io/badge/language-C++-blue)
+![Platform](https://img.shields.io/badge/platform-OpenBSW-green)
+![Use Case](https://img.shields.io/badge/usecase-Automotive%20ECU-orange)
+![Status](https://img.shields.io/badge/status-Complete-brightgreen)
 
 ## 📌 Overview
 
