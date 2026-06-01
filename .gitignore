@@ -1,0 +1,14 @@
+# Ignore build artifacts
+openbsw/build/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Binaries
+*.elf
+*.o
+
+# System
+.DS_Store
